@@ -1,0 +1,3 @@
+-- we are creating vertuval environment
+-- pythom -m venv venv
+-- venv\Scripts\activate >>> fet in to vertuval environment
